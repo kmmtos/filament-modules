@@ -1,12 +1,12 @@
 {
-    "name": "coolsam/modules",
+    "name": "kmmtos/modules",
     "description": "Support for nwidart/laravel-modules in filamentphp",
     "keywords": [
-        "coolsam",
+        "kmmtos",
         "laravel",
         "modules"
     ],
-    "homepage": "https://github.com/coolsam/modules",
+    "homepage": "https://github.com/kmmtos/filament-modules",
     "license": "MIT",
     "authors": [
         {
