@@ -1,8 +1,8 @@
 {
-    "name": "kmmtos/modules",
+    "name": "coolsam/modules",
     "description": "Support for nwidart/laravel-modules in filamentphp",
     "keywords": [
-        "kmmtos",
+        "coolsam",
         "laravel",
         "modules"
     ],
